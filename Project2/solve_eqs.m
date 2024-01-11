@@ -1,4 +1,9 @@
 function [M, N_A, N_B] = solve_eqs(mu_s, theta)
+% This code was developed for teaching purposes at Lund University
+% Author: Praveenkumar Hiremath
+% Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+%       praveenkumar.hiremath2911@gmail.com (Private email)
+
 % so we have a 3 unknowns and 3 equations
 theta = deg2rad(theta);
 M = zeros(length(mu_s), length(theta));
