@@ -1,5 +1,6 @@
 %% Exercise 3
 % This code was developed for teaching purposes at Lund University
+% This code is not to be used by others for University submission.
 % Author: Praveenkumar Hiremath
 % Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
 %       praveenkumar.hiremath2911@gmail.com (Private email)
