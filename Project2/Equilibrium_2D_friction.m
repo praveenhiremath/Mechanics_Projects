@@ -1,5 +1,10 @@
 %  Equilibrium in 2D - friction.
 %% Equilibrium In 2D, friction.
+% This code was developed for teaching purposes at Lund University
+% Author: Praveenkumar Hiremath
+% Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+%       praveenkumar.hiremath2911@gmail.com (Private email)
+
 clc
 clear all
 
